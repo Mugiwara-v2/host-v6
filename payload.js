@@ -54,8 +54,8 @@ toogle_payload();
 }
 
 function load_wildemodz138(){
-msgs.innerHTML="Loading Jailbreak + Gta V wildemodz 1.38 1.1... Please Wait !!!";
-LoadedMSG="Gta V wildemodz 1.38 1.1 Loaded... Press OK Now !!!";
+msgs.innerHTML="Loading Jailbreak + Gta V wildemodz 1.38 1.2... Please Wait !!!";
+LoadedMSG="Gta V wildemodz 1.38 1.2 Loaded... Press OK Now !!!";
 PLfile = "gtabeef/wildemodz138.bin";
 exec_type = "payload";
 toogle_payload();
