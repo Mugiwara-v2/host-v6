@@ -11,9 +11,9 @@ binloader.js
 fanthreshold.js
 84ciss.manifest
 int64.js
-kexploit.js
-rop.js
 webkit.js
+rop.js
+kexploit.js
 payload.js
 app2usb\app2usb.bin
 backup\backup.bin
@@ -29,7 +29,7 @@ gtaar\arabicguy133.bin
 gtabeef\beefqueefmod133.bin
 gtabeef\BeefQueefMod134.bin
 gtabeef\BeefQueefMod1384.bin
-gtabeef\wildemodz1384.bin
+gtabeef\expulsion138.bin
 gtabeef\BeefQueefMod138.bin
 gtabeef\wildemodz138.bin
 hblocker\historyblocker.bin
@@ -47,6 +47,7 @@ linux\linuxloader4gb.bin
 linux\linuxloader5gb.bin
 ps4debug\ps4debug.bin
 rdr\OystersMenu124.bin
+rdr\OystersMenu-v1.3.4-1.24-FREE.bin
 restore\restore.bin
 webrte\webrte.bin
 hen\henplatinum1b.bin

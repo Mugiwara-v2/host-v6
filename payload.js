@@ -54,56 +54,64 @@ toogle_payload();
 }
 
 function load_wildemodz138(){
-msgs.innerHTML="Loading Jailbreak + Gta V wildemodz 1.38 1.2... Please Wait !!!";
-LoadedMSG="Gta V wildemodz 1.38 1.2 Loaded... Press OK Now !!!";
+msgs.innerHTML="Loading Jailbreak + Gta V wildemodz Mod Menu 1.38 1.2... Please Wait !!!";
+LoadedMSG="Gta V wildemodz 1.38 Mod Menu 1.2 Loaded... Press OK Now !!!";
 PLfile = "gtabeef/wildemodz138.bin";
 exec_type = "payload";
 toogle_payload();
 }
 
+function load_expulsion138(){
+msgs.innerHTML="Loading Jailbreak + Gta V Expulsion Mod Menu 1.38 v3... Please Wait !!!";
+LoadedMSG="Gta V Expulsion Mod Menu 1.38 v3 Loaded... Press OK Now !!!";
+PLfile = "gtabeef/expulsion138.bin";
+exec_type = "payload";
+toogle_payload();
+}
+
 function load_gtabeef133(){
-msgs.innerHTML="Loading Jailbreak + gtabeef 1.33... Please Wait !!!";
-LoadedMSG="gtabeef 1.33 Loaded... Press OK Now !!!";
+msgs.innerHTML="Loading Jailbreak + Gta Beefqueef Mod Menu 1.33... Please Wait !!!";
+LoadedMSG="Beefqueef Mod Menu 1.33 Loaded... Press OK Now !!!";
 PLfile = "gtabeef/BeefQueefMod133.bin";
 exec_type = "payload";
 toogle_payload();
 }
 
 function load_gtabeef134(){
-msgs.innerHTML="Loading Jailbreak + gtabeef 1.34... Please Wait !!!";
-LoadedMSG="gtabeef 1.34 Loaded... Press OK Now !!!";
+msgs.innerHTML="Loading Jailbreak + Gta Beefqueef Mod Menu 1.34... Please Wait !!!";
+LoadedMSG="Beefqueef Mod Menu 1.34 Loaded... Press OK Now !!!";
 PLfile = "gtabeef/BeefQueefMod134.bin";
 exec_type = "payload";
 toogle_payload();
 }
 
 function load_gtabeef138(){
-msgs.innerHTML="Loading Jailbreak + gtabeef 1.38c... Please Wait !!!";
-LoadedMSG="gtabeef 1.38c Loaded... Press OK Now !!!";
+msgs.innerHTML="Loading Jailbreak + Gta Beefqueef Mod Menu 1.38c... Please Wait !!!";
+LoadedMSG="Beefqueef Mod Menu 1.38c Loaded... Press OK Now !!!";
 PLfile = "gtabeef/BeefQueefMod138.bin";
 exec_type = "payload";
 toogle_payload();
 }
 
 function load_gta127(){
-msgs.innerHTML="Loading Jailbreak + gtabeef 1.27... Please Wait !!!";
-LoadedMSG="gtabeef 1.27 Loaded... Press OK Now !!!";
+msgs.innerHTML="Loading Jailbreak + Gta Arabic Mod Menu 1.27... Please Wait !!!";
+LoadedMSG="Arabic Mod Menu 1.27 Loaded... Press OK Now !!!";
 PLfile = "gtaar/arabicguy127.bin";
 exec_type = "payload";
 toogle_payload();
 }
 
 function load_gta132(){
-msgs.innerHTML="Loading Jailbreak + gtabeef 1.32... Please Wait !!!";
-LoadedMSG="gtabeef 1.32 Loaded... Press OK Now !!!";
+msgs.innerHTML="Loading Jailbreak + Gta Arabic Mod Menu 1.32... Please Wait !!!";
+LoadedMSG="Arabic Mod Menu 1.32 Loaded... Press OK Now !!!";
 PLfile = "gtaar/arabicguy132.bin";
 exec_type = "payload";
 toogle_payload();
 }
 
 function load_gta133(){
-msgs.innerHTML="Loading Jailbreak + gtabeef 1.33... Please Wait !!!";
-LoadedMSG="gtabeef 1.33 Loaded... Press OK Now !!!";
+msgs.innerHTML="Loading Jailbreak + gta Arabic Mod Menu 1.33... Please Wait !!!";
+LoadedMSG="Arabic Mod Menu 1.33 Loaded... Press OK Now !!!";
 PLfile = "gtaar/arabicguy133.bin";
 exec_type = "payload";
 toogle_payload();
