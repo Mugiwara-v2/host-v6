@@ -22,8 +22,8 @@ window.msgs.innerHTML="<h1 style=color:#87FF33>"+LoadedMSG+"</h1>";
 }
 
 function load_platinum(){
-msgs.innerHTML="Loading Jailbreak + PlatinumHen-Unofficial v1.2b... Please Wait !!!";
-LoadedMSG="PlatinumHen-Unofficial v1.2b Loaded... Press OK Now !!!";
+msgs.innerHTML="Loading Jailbreak + PlatinumHen-Unofficial v1.3b... Please Wait !!!";
+LoadedMSG="PlatinumHen-Unofficial v1.3b Loaded... Press OK Now !!!";
 PLfile = "hen/henplatinum1b.bin";
 exec_type = "payload";
 toogle_payload();
