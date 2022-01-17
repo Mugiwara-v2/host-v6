@@ -9,12 +9,14 @@ webactivator.js
 binloader.html
 binloader.js
 fanthreshold.js
-int64.js
 webkit.js
-rop.js
-kexploit.js
 payload.js
 84ciss.manifest
+README.md
+kexploit.js
+patch.s
+rop.js
+int64.js
 app2usb\app2usb.bin
 backup\backup.bin
 dumper\gamedumper.bin
@@ -48,6 +50,10 @@ ps4debug\ps4debug.bin
 rdr\OystersMenu124.bin
 restore\restore.bin
 webrte\webrte.bin
+hen\henplatinum12b.bin
+hen\henplatinum11b.bin
+hen\henplatinum1bsp.bin
+hen\henplatinum13b.bin
 hen\henplatinum1b.bin
 
 NETWORK: 
