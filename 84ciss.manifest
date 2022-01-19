@@ -11,10 +11,7 @@ binloader.js
 fanthreshold.js
 webkit.js
 payload.js
-84ciss.manifest
-README.md
 kexploit.js
-patch.s
 rop.js
 int64.js
 app2usb\app2usb.bin
@@ -48,12 +45,9 @@ linux\linuxloader4gb.bin
 linux\linuxloader5gb.bin
 ps4debug\ps4debug.bin
 rdr\OystersMenu124.bin
+rdr\OystersMenu129.bin
 restore\restore.bin
 webrte\webrte.bin
-hen\henplatinum12b.bin
-hen\henplatinum11b.bin
-hen\henplatinum1bsp.bin
-hen\henplatinum13b.bin
 hen\henplatinum1b.bin
 
 NETWORK: 

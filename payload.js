@@ -118,9 +118,17 @@ toogle_payload();
 }
 
 function load_rdr2124(){
-msgs.innerHTML="Loading Read Dead Redemption II Mod v1.24 ... Please Wait !!!";
-LoadedMSG="Read Dead Redemption II Mod v1.24 Loaded";
+msgs.innerHTML="Loading Read Dead Redemption II OystersMod v1.24 ... Please Wait !!!";
+LoadedMSG="Read Dead Redemption II OystersMod v1.24 Loaded";
 PLfile = "rdr/OystersMenu124.bin";
+exec_type = "payload";
+toogle_payload();
+}
+
+function load_rdr2129(){
+msgs.innerHTML="Loading Read Dead Redemption II OystersMod v1.29 ... Please Wait !!!";
+LoadedMSG="Read Dead Redemption II OystersMod v1.29 Loaded";
+PLfile = "rdr/OystersMenu129.bin";
 exec_type = "payload";
 toogle_payload();
 }
